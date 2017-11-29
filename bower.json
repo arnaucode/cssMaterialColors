@@ -1,0 +1,22 @@
+{
+  "name": "cssMaterialColors",
+  "homepage": "https://github.com/arnaucode/cssMaterialColors",
+  "authors": [
+    "arnaucode <arnaucode@gmail.com>"
+  ],
+  "description": "css material colors",
+  "main": "colors.css",
+  "keywords": [
+    "css",
+    "material",
+    "colors"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
