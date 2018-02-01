@@ -44,13 +44,13 @@
     border: 2px solid #E57373!important;
     color: #E57373!important;
 }
-.ctext_red400{
+.ct_red400{
     color: #EF5350!important;
 }
-.ctext_red500{
+.ct_red500{
     color: #F44336!important;
 }
-.ctext_red600{
+.ct_red600{
     color: #E53935!important;
 }
 
@@ -222,7 +222,7 @@
     color: #ffffff!important;
 }
 
-.ctext_indigo500{
+.ct_indigo500{
     color: #3F51B5!important;
 }
 
@@ -593,7 +593,7 @@
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#607d8b', endColorstr='#90a4ae',GradientType=1 )!important;
 }
 
-.ctext_blueGrey500{
+.ct_blueGrey500{
     color: #607D8B!important;
 }
 
