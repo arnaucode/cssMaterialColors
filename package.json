@@ -1,0 +1,25 @@
+{
+  "name": "cssmaterialcolors",
+  "version": "1.0.0",
+  "description": "## Install ``` bower install --save cssMaterialColors ```",
+  "main": "colors.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnaucode/cssMaterialColors.git"
+  },
+  "keywords": [
+    "css",
+    "material",
+    "colors",
+    "cssmaterialcolors"
+  ],
+  "author": "arnaucode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arnaucode/cssMaterialColors/issues"
+  },
+  "homepage": "https://github.com/arnaucode/cssMaterialColors#readme"
+}

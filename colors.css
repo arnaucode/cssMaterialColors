@@ -341,6 +341,12 @@
     color: #4DD0E1!important;
 }
 
+
+.ct_cyan500{
+    color: #00BCD4!important;
+}
+
+
 .c_cyanG500to300{
     background: #00BCD4!important;
     background: -moz-linear-gradient(left, #00BCD4 0%, #4DD0E1 100%)!important;
