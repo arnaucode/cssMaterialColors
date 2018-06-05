@@ -2,12 +2,12 @@
 
 ## Install with npm
 ```
-npm install --save cssMaterialColors
+npm install --save cssmaterialcolors
 ```
 
 Add to the index.html:
 ```html
-<link href="node_modules/cssMaterialColors/colors.css" rel="stylesheet">
+<link href="node_modules/cssmaterialcolors/colors.css" rel="stylesheet">
 ```
 
 ## Install with bower
